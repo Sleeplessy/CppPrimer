@@ -1,3 +1,4 @@
+//Print the product of two numbers.
 #include <iostream>
 int main(){
     int v1=0,v2=0;
